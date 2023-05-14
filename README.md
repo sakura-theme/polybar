@@ -1,5 +1,5 @@
-# Sakura for Polybar
-🌸 Sakura theme for Polybar
+# sakura for Polybar
+🌸 sakura theme for Polybar
 
 ![screenshot](https://github.com/sakura-theme/polybar/blob/main/screenshot.png)
 
