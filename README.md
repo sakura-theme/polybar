@@ -5,10 +5,10 @@
 
 ## Installation
 
-Clone this repository and move `/path/to/polybar` to `~/.config/polybar`.
+Clone this repository and copy `/path/to/polybar` to `~/.config/polybar`.
 
 ```
-git clone https://github.com/sakura-theme/polybar.git /path/to
+git clone https://github.com/sakura-theme/polybar.git /path/to/polybar
 ```
 
 Run `./launch.sh` to start polybar.
